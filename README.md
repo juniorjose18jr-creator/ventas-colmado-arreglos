@@ -5,7 +5,7 @@ Programa en C++ que registra las ventas diarias del colmado "Don Junior" de lune
 ## Estudiante
 
 **Junior Ivón José Jean** — Matrícula 2026-1655
-Universidad Central del Este (UCE)
+
 
 ## Instrucciones para compilar y ejecutar
 
