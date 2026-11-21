@@ -1,3 +1,4 @@
+<img width="1918" height="1060" alt="Screenshot 2026-11-21 165425" src="https://github.com/user-attachments/assets/c12bbd62-b18e-4258-abc7-023707f6d332" />
 # Ventas del Colmado Don Junior
 
 Programa en C++ que registra las ventas diarias del colmado "Don Junior" de lunes a domingo, las guarda en un arreglo unidimensional y muestra un resumen de la semana: listado de ventas, total semanal, promedio diario, día con mayor venta, día con menor venta y los días que superaron el promedio. El programa valida que no se ingresen ventas negativas.
